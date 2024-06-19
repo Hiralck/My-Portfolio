@@ -104,10 +104,10 @@ h2 {
 }
 
 .profile_image {
-  width: 550px;
-  height: fit-content;
-  vertical-align: middle;
-  margin: 5px;
+  width: 250 px;
+  height: 250 px;
+  vertical-align: left;
+  margin: 5 px;
 }
 
 /* Skills */
